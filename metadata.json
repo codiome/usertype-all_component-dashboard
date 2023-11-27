@@ -1,5 +1,5 @@
 {
-  "name": "all dashboard plugin",
+  "name": "all users dashboard component plugin",
   "type": "helper",
   "properties": {
     "user_type": "all",
